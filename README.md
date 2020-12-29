@@ -1,7 +1,7 @@
 **ArduinoProjects** \
 1)AutomatedFeeder 
 
-**AutomatedFeeder**
+**1)AutomatedFeeder**
 
    Components used
 >.Servo motors(x2)\
