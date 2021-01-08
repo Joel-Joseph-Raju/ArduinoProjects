@@ -18,5 +18,6 @@
  .Soil Moisture Sensor\
  .L293D Motor driver\
  .Bread Board Power Supply\
+ .Bread Board\
  .9v Mini Pump
  
