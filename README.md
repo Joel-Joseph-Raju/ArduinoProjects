@@ -8,7 +8,7 @@
 .button \
 .prototype sheild 
 
-**2)Watering System**
+**2)Plant Watering System**
 
     Components used
 >.OLED Display(0.95inches)\
