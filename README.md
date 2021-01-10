@@ -47,7 +47,7 @@
          ![IMG20210110102726_00](https://user-images.githubusercontent.com/72121314/104115882-1fb38780-533a-11eb-8ce4-264f2cc0ae6e.jpg)
          
 ![IMG20210110102752_00 (1)](https://user-images.githubusercontent.com/72121314/104116423-699e6c80-533e-11eb-8100-a4c8497a3d38.jpg)
-\
+
          
    AFTER SELECTING TIMER:-
            JOYSTICK LEFT/RIGHT => SWITCH BETWEEN HOURS AND MINUTES (24 Hour Format)\
