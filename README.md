@@ -45,8 +45,11 @@
          \
          ![IMG20210110102715_00](https://user-images.githubusercontent.com/72121314/104115860-cf3c2a00-5339-11eb-9e3a-639d034ee51e.jpg)
          ![IMG20210110102726_00](https://user-images.githubusercontent.com/72121314/104115882-1fb38780-533a-11eb-8ce4-264f2cc0ae6e.jpg)
-         \
-       AFTER SELECTING TIMER:-\
+         
+![IMG20210110102752_00 (1)](https://user-images.githubusercontent.com/72121314/104116423-699e6c80-533e-11eb-8100-a4c8497a3d38.jpg)
+\
+         
+   AFTER SELECTING TIMER:-
            JOYSTICK LEFT/RIGHT => SWITCH BETWEEN HOURS AND MINUTES (24 Hour Format)\
            JOYSTICK UP => INCREASES Hour/Minute BY 1\
            JOYSTICK DOWN => DECREASES Hour/Minute BY 1\
