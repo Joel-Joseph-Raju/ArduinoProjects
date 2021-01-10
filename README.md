@@ -27,6 +27,7 @@
       JOYSTICK UP=> SCROLL UP\
       JOYSTICK DOWN=> SCROLL DOWN\
       JOYSTICK PRESS=> SELECT\
+      ![IMG20210110102703_00](https://user-images.githubusercontent.com/72121314/104115808-54730f00-5339-11eb-9435-0496481fae69.jpg)
 *IN SET TIME\
       THREE TIME SLOTS AVAILABLE\
         (Joystick Function is the same as SETTINGS)\
