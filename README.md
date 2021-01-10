@@ -27,7 +27,11 @@
       JOYSTICK UP=> SCROLL UP\
       JOYSTICK DOWN=> SCROLL DOWN\
       JOYSTICK PRESS=> SELECT\
-      ![IMG20210110102703_00](https://user-images.githubusercontent.com/72121314/104115808-54730f00-5339-11eb-9435-0496481fae69.jpg)
+      
+![IMG_20210110_115758](https://user-images.githubusercontent.com/72121314/104116058-3d352100-533b-11eb-89ba-2c21af0b632b.jpg)
+
+
+
       \
 *IN SET TIME\
       THREE TIME SLOTS AVAILABLE\
