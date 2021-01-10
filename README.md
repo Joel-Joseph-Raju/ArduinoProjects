@@ -26,8 +26,10 @@
  *IN SETTINGS:\
       JOYSTICK UP=> SCROLL UP\
       JOYSTICK DOWN=> SCROLL DOWN\
-      JOYSTICK PRESS=> SELECT\
+      JOYSTICK PRESS=> SELECT
       
+
+![IMG20210110102703_00 (3)](https://user-images.githubusercontent.com/72121314/104116109-b16fc480-533b-11eb-99b4-0b403bf2d933.jpg)
 
 
 
