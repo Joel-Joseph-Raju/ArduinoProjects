@@ -22,17 +22,17 @@
  .9v Mini Pump\
  
     WORKING
-    
+  ![IMG_20210110_115758](https://user-images.githubusercontent.com/72121314/104116058-3d352100-533b-11eb-89ba-2c21af0b632b.jpg)  
  *IN SETTINGS:\
       JOYSTICK UP=> SCROLL UP\
       JOYSTICK DOWN=> SCROLL DOWN\
       JOYSTICK PRESS=> SELECT\
       
-![IMG_20210110_115758](https://user-images.githubusercontent.com/72121314/104116058-3d352100-533b-11eb-89ba-2c21af0b632b.jpg)
 
 
 
-      \
+
+      
 *IN SET TIME\
       THREE TIME SLOTS AVAILABLE\
         (Joystick Function is the same as SETTINGS)\
