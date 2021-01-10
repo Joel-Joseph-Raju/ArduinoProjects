@@ -44,7 +44,7 @@
             JOYSTICK UP => INCREASES SECONDS BY 1\
            JOYSTICK DOWN => DECREASES SECONDS BY 1\
            JOYSTICK PRESS => STARTS PUMPS AND COUNT DOWN\
-           
+          ![ezgif com-gif-maker (2) (1)](https://user-images.githubusercontent.com/72121314/104115539-6e5f2280-5336-11eb-8300-acf9dca0f7e0.gif) 
            
            
    
