@@ -8,6 +8,9 @@
 .button \
 .prototype sheild 
 
+      WORKING
+ ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72121314/104116285-24c60600-533d-11eb-8d4b-1a97f1ff402b.gif)
+
 **2)Plant Watering System**
 
     COMPONENTS USED
@@ -19,7 +22,7 @@
  .L293D Motor driver\
  .Bread Board Power Supply\
  .Bread Board\
- .9v Mini Pump\
+ .9v Mini Pump
  
     WORKING
   ![IMG_20210110_115758](https://user-images.githubusercontent.com/72121314/104116058-3d352100-533b-11eb-89ba-2c21af0b632b.jpg)  
