@@ -2,7 +2,7 @@
 
 **1)AutomatedFeeder**
 
-    Components used
+     COMPONENTS USED
 >.Servo motors(x2)\
 .DS3231 real time clock module(download library from :- http://www.rinkydinkelectronics.com/library.php?id=73) \
 .button \
@@ -35,6 +35,11 @@
            JOYSTICK LEFT/RIGHT => SWITCH BETWEEN HOURS AND MINUTES (24 Hour Format)\
            JOYSTICK UP => INCREASES Hour/Minute BY 1\
            JOYSTICK DOWN => DECREASES Hour/Minute BY 1\
+           WORKING AT 18:00:00 WITH A DURATION OF 30 seconds\
+            
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72121314/104115724-4e306300-5338-11eb-800d-bab1e2486109.gif)
+
+
 *IN SET DURATION\
          (Joystick Function is the same as SET TIME)\
           NOTE  :- HERE THE UNIT OF TIME IS MINUTES AND SECONDS \
