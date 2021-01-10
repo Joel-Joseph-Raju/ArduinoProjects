@@ -32,6 +32,7 @@
       THREE TIME SLOTS AVAILABLE\
         (Joystick Function is the same as SETTINGS)\
          JOYSTICK LEFT/RIGHT => TO ACTIVATE/DEACTIVATE TIMER\
+         ![IMG20210110102715_00](https://user-images.githubusercontent.com/72121314/104115860-cf3c2a00-5339-11eb-9e3a-639d034ee51e.jpg)
        AFTER SELECTING TIMER:-\
            JOYSTICK LEFT/RIGHT => SWITCH BETWEEN HOURS AND MINUTES (24 Hour Format)\
            JOYSTICK UP => INCREASES Hour/Minute BY 1\
