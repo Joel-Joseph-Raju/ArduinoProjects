@@ -19,7 +19,7 @@
  .Joystick\
  .DS3231 real time clock module(download library from :- http://www.rinkydinkelectronics.com/library.php?id=73) \
  .Soil Moisture Sensor\
- .L293D Motor driver\
+ .5v relay\
  .Bread Board Power Supply\
  .Bread Board\
  .9v Mini Pump
@@ -29,7 +29,7 @@
  *IN SETTINGS:\
       JOYSTICK UP=> SCROLL UP\
       JOYSTICK DOWN=> SCROLL DOWN\
-      JOYSTICK PRESS=> SELECT
+      MENU PRESS=> SELECT
       
 
 ![IMG20210110102703_00 (3)](https://user-images.githubusercontent.com/72121314/104116109-b16fc480-533b-11eb-99b4-0b403bf2d933.jpg)
@@ -66,7 +66,7 @@
        USED TO MANUALLY START THE PUMP \
             JOYSTICK UP => INCREASES SECONDS BY 1\
            JOYSTICK DOWN => DECREASES SECONDS BY 1\
-           JOYSTICK PRESS => STARTS PUMPS AND COUNT DOWN\
+           MENU PRESS => STARTS PUMPS AND COUNT DOWN\
           ![ezgif com-gif-maker (2) (1)](https://user-images.githubusercontent.com/72121314/104115539-6e5f2280-5336-11eb-8300-acf9dca0f7e0.gif) 
            
            
